@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Amazon",
+    "imageSrc": "projects/amazon.png",
+    "description": "Amazon Clone",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://amazon-theta-livid.vercel.app/",
+    "source": "https://github.com/LELOUCH-CREATOR/amazon.git"
+  },
+  {
+    "title": "UAB",
+    "imageSrc": "projects/uab.png",
+    "description": "A Website for KIndergarten School",
+    "skills": [ "Express", "Node"],
+    "demo": "https://lelouch-creator.github.io/UAB/",
+    "source": "https://github.com/LELOUCH-CREATOR/UAB.git"
+  },
+  {
+    "title": "Silkcoat",
+    "imageSrc": "projects/silk.png",
+    "description": "A Website for Silkcoat",
+    "skills": ["Express", "Node"],
+    "demo": "https://silkcoat.vercel.app/",
+    "source": "https://github.com/LELOUCH-CREATOR/silkcoat.git"
+  },
+  {
+    "title": "Ecommerce",
+    "imageSrc": "projects/ecom.png",
+    "description": "ecommerce Pages.",
+    "skills": ["Express", "Node"],
+    "demo": "https://ecommerce123-topaz.vercel.app/",
+    "source": "https://github.com/LELOUCH-CREATOR/Ecommerce123.git"
+  },
+  {
+    "title": "Zoom",
+    "imageSrc": "projects/zoom.png",
+    "description": "Zoom Clone",
+    "skills": ["React", "Node"],
+    "demo": "https://zoom-clone-lelouch-creator.vercel.app/",
+    "source": "https://github.com/LELOUCH-CREATOR/Zoom-Clone.git"
+  }
+
+]
