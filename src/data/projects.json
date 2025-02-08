@@ -30,14 +30,7 @@
     "skills": ["Express", "Node"],
     "demo": "https://ecommerce123-topaz.vercel.app/",
     "source": "https://github.com/LELOUCH-CREATOR/Ecommerce123.git"
-  },
-  {
-    "title": "Zoom",
-    "imageSrc": "projects/zoom.png",
-    "description": "Zoom Clone",
-    "skills": ["React", "Node"],
-    "demo": "https://zoom-clone-lelouch-creator.vercel.app/",
-    "source": "https://github.com/LELOUCH-CREATOR/Zoom-Clone.git"
   }
+  
 
 ]
