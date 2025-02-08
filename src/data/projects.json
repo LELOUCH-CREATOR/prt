@@ -30,6 +30,14 @@
     "skills": ["Express", "Node"],
     "demo": "https://ecommerce123-topaz.vercel.app/",
     "source": "https://github.com/LELOUCH-CREATOR/Ecommerce123.git"
+  },
+  {
+    "title": "zoom",
+    "imageSrc": "projects/zoom.png",
+    "description": "ecommerce Pages.",
+    "skills": ["Express", "Node"],
+    "demo": "https://zoom-rho-five.vercel.app/",
+    "source": "https://github.com/LELOUCH-CREATOR/zoom.git"
   }
   
 
